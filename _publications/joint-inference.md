@@ -8,7 +8,8 @@ excerpt: ''
 date: 2022-09-01
 venue: ''
 paperurl: 'https://www.biorxiv.org/content/10.1101/2022.09.20.508756v1.full.pdf'
-citation: 'Xu, Yuehao, Andreas Futschik, and Ritabrata Dutta. "Joint likelihood-free inference of the number of selected SNPs and the selection coefficient in an evolving population." bioRxiv (2022): 2022-09.'
+
+
 ---
 [Download paper here](https://www.biorxiv.org/content/10.1101/2022.09.20.508756v1.full.pdf)
 
