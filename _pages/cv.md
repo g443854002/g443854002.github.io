@@ -22,7 +22,10 @@ Work experience
   
 Skills
 ======
-
+* Python
+* R
+* SAS
+* SPSS
 
 Publications
 ======
